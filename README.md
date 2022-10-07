@@ -31,7 +31,7 @@ Repository Structure:
 ├── Intermediate files
 │   ├── mobile_web.json
 │   ├── mobile_app.json
-│   └── desktop.json
+│   ├── desktop.json
 │   ├── mobile_web.csv
 │   ├── mobile_app.csv
 │   └── desktop.csv
